@@ -20,3 +20,9 @@ Run the program using:
 
 ```bash
 python main.py
+
+### Terminal Output
+(screenshots/terminal_output.png)
+
+### Graph Output
+(screenshots/graph_output.png)
